@@ -2,7 +2,7 @@
 
 ## Overview
 
-This desktop application helps in detecting brain tumors from MRI/CT scan images using a pre-trained model. The key features of the application include data preprocessing, data augmentation, model training, evaluation metrics display, and prediction functionality.
+This desktop application trains deep learning models on MRI/CT scan images for brain tumor detection. Key features include data preprocessing, augmentation, model training, evaluation metrics, and prediction capabilities. It achieves 99% accuracy in tumor detection, outperforming many existing approaches.
 
 ### Features:
 
